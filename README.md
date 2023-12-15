@@ -1,7 +1,6 @@
 - Hi, I’m @CoderFlux666
-- I'm currently learning Web Development.
-- I'm also a Penetration Tester who will be focusing in cryptography in future days.
-- Team Work and Management
+- Full Stack Web Developer | Blockchain Developer.
+- https://portfolio-iamflux.vercel.app/ 
 
 <!---
 CoderFlux666/CoderFlux666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
