@@ -1,5 +1,5 @@
 - Hi, I’m @CoderFlux666
-- Full Stack Web Developer | Blockchain Developer.
+- Full Stack Web Developer | Data Analyst.
 - https://portfolio-iamflux.vercel.app/ 
 
 <!---
